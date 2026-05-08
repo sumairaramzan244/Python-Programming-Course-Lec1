@@ -31,13 +31,13 @@ In Lecture 2, I learned how to use Variables in Python.
 
 ## Ownership
 
-Author  : Sumaira Ramzan
-Program : Punjab Hunarmand, Python Programming Course — Batch 3
-City    : Punjab, Pakistan
+Author  : Sumaira Ramzan  
+Program : Punjab Hunarmand, Python Programming Course — Batch 3  
+City    : Punjab, Pakistan  
 
 ---
 
-Program : Punjab Hunarmand — Batch 3.
-Lecture : 2.
-Topic   : Variables in Python
+Program : Punjab Hunarmand — Batch 3  
+Lecture : 2  
+Topic   : Variables in Python  
 Status  : In Progress
