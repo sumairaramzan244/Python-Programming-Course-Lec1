@@ -1,4 +1,4 @@
-# Python Basics — Punjab Hunarmand Batch 3
+# Python Programming Course — Punjab Hunarmand Batch 3
 
 This repository contains my Python code from Lecture 2
 at Punjab Hunarmand Program, Batch 3.
