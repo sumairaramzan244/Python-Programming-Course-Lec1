@@ -5,7 +5,7 @@ at Punjab Hunarmand Program, Batch 3.
 
 ---
 
-## Lecture 2 — Variables in Python
+## Lecture 1 — Variables in Python
 
 In Lecture 1, I learned how to use Variables in Python.
 
